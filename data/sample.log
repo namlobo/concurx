@@ -1,0 +1,6 @@
+2026-10-27T10:15:30|INFO|scheduler|Task started
+2026-10-27T10:15:31|DEBUG|worker|Dequeued task|priority=normal
+2026-10-27T10:15:32|WARN|storage|Retrying write
+2026-10-27T10:15:33|ERROR|network|Connection failed
+
+not-a-valid-record
